@@ -1,0 +1,2 @@
+Ejecutado por el LanzarSumador2
+Resultado sumar los numero comprendidos entre 2 y 6 es  20
